@@ -1,0 +1,14 @@
+C:\Dotnet WS\LinqExers\Exe04\bin\Debug\net7.0\Exe04.exe
+C:\Dotnet WS\LinqExers\Exe04\bin\Debug\net7.0\Exe04.deps.json
+C:\Dotnet WS\LinqExers\Exe04\bin\Debug\net7.0\Exe04.runtimeconfig.json
+C:\Dotnet WS\LinqExers\Exe04\bin\Debug\net7.0\Exe04.dll
+C:\Dotnet WS\LinqExers\Exe04\bin\Debug\net7.0\Exe04.pdb
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfoInputs.cache
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.AssemblyInfo.cs
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.csproj.CoreCompileInputs.cache
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.dll
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\refint\Exe04.dll
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.pdb
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\Exe04.genruntimeconfig.cache
+C:\Dotnet WS\LinqExers\Exe04\obj\Debug\net7.0\ref\Exe04.dll

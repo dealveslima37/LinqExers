@@ -1,0 +1,14 @@
+C:\Dotnet WS\LinqExers\Exe15\bin\Debug\net7.0\Exe15.exe
+C:\Dotnet WS\LinqExers\Exe15\bin\Debug\net7.0\Exe15.deps.json
+C:\Dotnet WS\LinqExers\Exe15\bin\Debug\net7.0\Exe15.runtimeconfig.json
+C:\Dotnet WS\LinqExers\Exe15\bin\Debug\net7.0\Exe15.dll
+C:\Dotnet WS\LinqExers\Exe15\bin\Debug\net7.0\Exe15.pdb
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.AssemblyInfoInputs.cache
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.AssemblyInfo.cs
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.csproj.CoreCompileInputs.cache
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.dll
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\refint\Exe15.dll
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.pdb
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\Exe15.genruntimeconfig.cache
+C:\Dotnet WS\LinqExers\Exe15\obj\Debug\net7.0\ref\Exe15.dll

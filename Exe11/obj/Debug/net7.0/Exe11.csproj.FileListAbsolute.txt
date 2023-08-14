@@ -1,0 +1,14 @@
+C:\Dotnet WS\LinqExers\Exe11\bin\Debug\net7.0\Exe11.exe
+C:\Dotnet WS\LinqExers\Exe11\bin\Debug\net7.0\Exe11.deps.json
+C:\Dotnet WS\LinqExers\Exe11\bin\Debug\net7.0\Exe11.runtimeconfig.json
+C:\Dotnet WS\LinqExers\Exe11\bin\Debug\net7.0\Exe11.dll
+C:\Dotnet WS\LinqExers\Exe11\bin\Debug\net7.0\Exe11.pdb
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.AssemblyInfoInputs.cache
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.AssemblyInfo.cs
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.csproj.CoreCompileInputs.cache
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.dll
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\refint\Exe11.dll
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.pdb
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\Exe11.genruntimeconfig.cache
+C:\Dotnet WS\LinqExers\Exe11\obj\Debug\net7.0\ref\Exe11.dll

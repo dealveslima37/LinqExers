@@ -1,0 +1,41 @@
+# JetBrains Rider
+.idea/
+
+# Compiled binaries
+/bin/
+/obj/
+
+# NuGet packages
+/packages/
+
+# User-specific files
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Logs and databases
+*.log
+*.sqlite
+
+# macOS-specific files
+.DS_Store
+
+# Windows thumbnail cache files
+Thumbs.db
+
+# ReSharper files
+_ReSharper*/
+*.ReSharper*
+*.DotSettings.user
+
+# User-specific folders
+node_modules/
+bower_components/
+
+# Ignore compiled executables from Console Applications
+/**/*.exe
+/**/*.dll
+
+# Other
+*.bak
+*.swp
